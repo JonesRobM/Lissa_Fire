@@ -1,2 +1,4 @@
 # Lissa_Fire
-Collecting relevant code to manipulate and display Lissajous Figures. Primarily for the Atto9 conference, however, to be updated and maintained as a part of my ongoing research.
+
+![export](https://github.com/JonesRobM/Lissa_Fire/assets/52043020/456eceec-23b0-47d1-baf7-b62ba42921de)
+![Tref_Plot](https://github.com/JonesRobM/Lissa_Fire/assets/52043020/4f63d694-c08a-4fca-903e-bd17e516f051)
