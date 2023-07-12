@@ -74,6 +74,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 * [Attosecond Quantum Physics Laboratory
 Department of Physics, King’s College London](https://www.attokings.com)
+* [Robert Jones](https://github.conm/JonesRobM/)
 * [Emilio Pisanty](https://episanty.github.io/)
 * Royal Society University Research Fellowship funding under grant URF\R1\211390
 
@@ -88,10 +89,10 @@ Department of Physics, King’s College London](https://www.attokings.com)
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
 [forks-url]: https://github.com/JonesRobM/Lissa_Fire/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
+[stars-url]: https://github.com/JonesRobM/Lissa_Fire/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+[issues-url]: https://github.com/JonesRobM/Lissa_Fire/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[license-url]: https://github.com/JonesRobM/Lissa_Fire/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/robert-jones-a12b25129/
