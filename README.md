@@ -17,9 +17,9 @@ With bicircular drivers, on the other hand, the emission can combine n photons o
 ## Bicurcular Fields
 
 An arbitrary bichromatic field with relative frequencies $p\omega$ and $q\omega$ may be written as,
-
-$\textbf{E}(t) = Re\left[ \textbf{E}_{p}e^{-(ip\omega t +\varphi_{p})} +  \textbf{E}_{q}e^{-i(q\omega t + \varphi_{q})}  \right]$
-
+```math
+\underline{E}(t) = Re\left[ \underline{E}_{p}e^{-(ip\omega t +\varphi_{p})} +  \underline{E}_{q}e^{-i(q\omega t + \varphi_{q})}  \right]
+```
 which each field may be assumed to have its own unique phase, $\varphi$.
 
 <p float="left">
