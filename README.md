@@ -1,5 +1,5 @@
-# Lissa_Fire
-\section{Introduction}
+# Atto9 Supporting information
+## Introduction
 HHG is a versatile process, finding utility as both a tool to explore the dynamics and structure of atoms and molecules using the harmonic generation process itself, and as a flexible source of short, bright, coherent pulses of high-frequency radiation for use in further experiments. 
 
 One tool that has mostly lacked from this development is the polarisation of the emitted harmonics, which has been essentially confined to linear polarisations along the polarisation of the driving IR field. The lack of circularly polarised pulses completely eliminates
@@ -22,5 +22,5 @@ The immediate response to this problem, of course, is to try to produce high-ord
 </p>
 
 <p float="left">
-  <img src="/Figs/Liss_Figs_Ac.png" width = 500 />
+  <img src="/Figs/Liss_Figs_AC.png" width = 500 />
 </p>
