@@ -16,9 +16,13 @@ With bicircular drivers, on the other hand, the emission can combine n photons o
 
 ## Bicurcular Fields
 
-\begin{equation*}
-\textbf{E}(t) = Re\left[ \textbf{E}_{p}e^{-(ip\omega t +\varphi_{p})} +  \textbf{E}_{q}e^{-i(q\omega t + \varphi_{q})}  \right] 
-\end{equation*}
+An arbitrary bichromatic field with relative frequencies $p\omega$ and $q\omega$ may be written as,
+$$\textbf{E}(t) = Re\left[ \textbf{E}_{p}e^{-(ip\omega t +\varphi_{p})} +  \textbf{E}_{q}e^{-i(q\omega t + \varphi_{q})}  \right] $$
+which each field may be assumed to have its own unique phase, $\varphi$.
+
+<p float="left">
+  <img src="/Figs/Liss_Figs_AC.png" width = 300 />
+</p>
 
 <p float="left">
   <img src="/Figs/Liss_Tref.gif" width="300" />
@@ -26,17 +30,14 @@ With bicircular drivers, on the other hand, the emission can combine n photons o
 </p>
 
 <p float="left">
-<img src="/Figs/Liss_Abs_Neg.jpeg" width = 250 />
-<img src="/Figs/Liss_Abs_Plus.jpeg" width = 250 />
+<img src="/Figs/Liss_Abs_Neg.jpeg" width = 300 />
+<img src="/Figs/Liss_Abs_Plus.jpeg" width = 300 />
 </p>
 
 Because of the three-fold symmetry of the field each of these recollisions, with their attendant bursts of XUV radiation, is necessarily mirrored by two other identical sets of trajectories and radiation bursts, trailing each other by a third of a period of the fundamental and rotated with respect to each other by 120°.
 
 
 <p float="left">
-  <img src="/Figs/Tref_Wheel.png" width = 500 />
+  <img src="/Figs/Tref_Wheel.png" width = 300 />
 </p>
 
-<p float="left">
-  <img src="/Figs/Liss_Figs_AC.png" width = 500 />
-</p>
