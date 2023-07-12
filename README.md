@@ -53,8 +53,10 @@ These decompositions are described as tensor moments, and were used to reconstru
   <img src="/Figs/Tref_Wheel.png" width = 300 />
 </p>
 
-Given its initial success, the continuation of this work will hopefully allow us to realise 
+These features can be used as building blocks for more elaborate field topologies, from non-paraxial equivalents that can exhibit polarization torus knots as explicit 3D objects, as in the Möbius-band case, to knots of coordinated-rotation-invariant vortex cores, or the trefoils’ equivalent to streamlines; they can also be extended to evanescent light and combined with complex light shaping of the longitudinal polarization component. 
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTACT -->
 ## Contact
 
