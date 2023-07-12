@@ -12,39 +12,13 @@ HHG is, at its core, a recollision phenomenon, and bicircular fields are only ab
 
 The harmonic emission, however, is much easier to understand from a frequency domain perspective. For the usual high-order harmonic generation, with a linearly polarized driver, the time-dependent picture of the three-step model can be usefully complemented by a photon picture analogous to the ones from harmonic generation in perturbative nonlinear optics, where we envision $n$ photons of the linear driver at photon energy $\omega$ as combining to form a single harmonic photon at energy $n\omega$.
 
+With bicircular drivers, on the other hand, the emission can combine n photons of the fundamental with n ± 1 photons of its oppositely-polarized second harmonic, leaving one net unit of angular momentum which can be discharged with a harmonic photon. 
 
+## Bicurcular Fields
 
-\begingroup
-\fontsize{10pt}{12pt}\selectfont
-
-\begin{tikzpicture}[
-   scale=0.5,
-   level/.style={thick},
-   photon/.style={thick,->,shorten >=0.5pt,shorten <=0.5pt,>=stealth},
- ]    
- \providelength{\smap} \setlength{\smap}{2cm} % small photon
- \providelength{\bigp} \setlength{\bigp}{3cm} % big photon
- \providelength{\sep} \setlength{\sep}{0.35cm} % (1/2) separation between the up and down arrows of each diagram
- \providelength{\lvlwidth} \setlength{\lvlwidth}{0.75cm} % (1/2) width of the horizontal 'level' lines
-%
- \draw[level] (-\lvlwidth,  0cm) -- (\lvlwidth,  0cm);
- \draw[level] (-\lvlwidth,7\smap) -- (\lvlwidth,7\smap);
- \draw[photon] (-\sep, 0\smap) -- (-\sep, 1\smap) node[midway, left] {\begin{turn}{90}$\omega,\linpol$\end{turn}};
- \draw[photon] (-\sep, 1\smap) -- (-\sep, 2\smap) node[midway, left] {\begin{turn}{90}$\omega,\linpol$\end{turn}};
- \draw[photon] (-\sep, 2\smap) -- (-\sep, 3\smap) node[midway, left] {\begin{turn}{90}$\omega,\linpol$\end{turn}};
- \draw[photon] (-\sep, 3\smap) -- (-\sep, 4\smap) node[midway, left] {\begin{turn}{90}$\omega,\linpol$\end{turn}};
- \draw[photon] (-\sep, 4\smap) -- (-\sep, 5\smap) node[midway, left] {\begin{turn}{90}$\omega,\linpol$\end{turn}};
- \draw[photon] (-\sep, 5\smap) -- (-\sep, 6\smap) node[midway, left] {\begin{turn}{90}$\omega,\linpol$\end{turn}};
- \draw[photon] (-\sep, 6\smap) -- (-\sep, 7\smap) node[midway, left] {\begin{turn}{90}$\omega,\linpol$\end{turn}};
- \draw[photon] (\sep,7\smap) -- (\sep,  0cm) node[midway,right] {\begin{turn}{90}$7\omega,\linpol$\end{turn}};
-%
-\end{tikzpicture}
-
-\endgroup
-
-
-
-
+\begin{equation*}
+\textbf{E}(t) = Re\left[ \textbf{E}_{p}e^{-(ip\omega t +\varphi_{p})} +  \textbf{E}_{q}e^{-i(q\omega t + \varphi_{q})}  \right] 
+\end{equation*}
 
 <p float="left">
   <img src="/Figs/Liss_Tref.gif" width="300" />
