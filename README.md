@@ -22,14 +22,20 @@ An arbitrary bichromatic field with relative frequencies $p\omega$ and $q\omega$
 ```
 which each field may be assumed to have its own unique phase, $\varphi$.
 
+In the simplest non-trivial case where the ratio is $2:1$, we may construct the general family of such fields. It is natural to represent them as their Lissajous figure, the parametric form of their transverse field amplitudes.
+
 <p float="left">
   <img src="/Figs/Liss_Figs_AC.png" width = 300 />
 </p>
+
+Neglecting trivial cases, such as one of the drivers having zero amplitude, two regimes emerge: evidence of three-fold symmetry within the Lissajous figure, and none whatsover. One may visualise these respectively as counter-rotating and co-rotating.
 
 <p float="left">
   <img src="/Figs/Liss_Tref.gif" width="300" />
   <img src="/Figs/Liss_CoRot.gif" width="300" /> 
 </p>
+
+In the context of performing ultrafast experiments with bicurcular fields, it is precisely the field associated with the three-fold symmetric Lissajous figure which is expected to drive elliptically polarised harmonics, due to the selection rules discussed earlier.
 
 <p float="left">
 <img src="/Figs/Liss_Abs_Neg.jpeg" width = 300 />
