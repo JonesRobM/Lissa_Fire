@@ -39,9 +39,8 @@ Neglecting trivial cases, such as one of the drivers having zero amplitude, two 
 
 In the context of performing ultrafast experiments with bicurcular fields, it is precisely the field associated with the three-fold symmetric Lissajous figure which is expected to drive elliptically polarised harmonics, due to the selection rules discussed earlier. This is because of the three-fold symmetry of the field for each of these recollisions, with their attendant bursts of XUV radiation. As it is necessarily mirrored by two other identical sets of trajectories and radiation bursts, trailing each other by a third of a period of the fundamental and rotated with respect to each other by 120°.
 
-However, the issue, and motivation for this research, is that it is not a simple task to determine the nature of the polarisation of the fields. Moreover, there is not a formally defined or known topological space to house bichromatic fields. Therefore, this project is expanding on the work of E. Pisanty in [Nature Photonics 13 no. 8, 569 (2019)](https://www.nature.com/articles/s41566-019-0450-2), where a scheme was proposed to provide a characterisation tool for the trefoil polarisation state using higher order moments of the field tensor $\underline{\underline{M}} = <E_{i}E_{j}>$
+However, the issue, and motivation for this research, is that it is not a simple task to determine the nature of the polarisation of the fields. Moreover, there is not a formally defined or known topological space to house bichromatic fields. Therefore, this project is expanding on the work of E. Pisanty in [Nature Photonics 13 no. 8, 569 (2019)](https://www.nature.com/articles/s41566-019-0450-2), where a scheme was proposed to provide a characterisation tool for the trefoil polarisation state using higher order moments of the field tensor $\underline{\underline{M}} = <\langle E_{i}E_{j}\rangle$
 
-𝑇_(𝑙,𝑛)= 〈├ (𝐸┤_𝑥+i𝐸_𝑦 )^𝑙 (𝐸_𝑥^2+𝐸_𝑦^2 )^((𝑛−𝑙)/2) 〉  .
 ![image](https://github.com/JonesRobM/Lissa_Fire/assets/52043020/5d2e8873-b273-4780-b1fc-92ba5c9760f7)
 
 
