@@ -6,8 +6,8 @@
 </p>
 
 <p float="left">
-<img src="/Figs/Liss_Abs_Neg.jpg" width = 250 />
-<img src="/Figs/Liss_Abs_Plus.jpg" width = 250 />
+<img src="/Figs/Liss_Abs_Neg.jpeg" width = 250 />
+<img src="/Figs/Liss_Abs_Plus.jpeg" width = 250 />
 </p>
 
 <p float="left">
